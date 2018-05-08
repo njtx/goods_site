@@ -1,0 +1,3 @@
+eclipse.preferences.version=1
+validator.Checked=WebContent/UEditor/dialogs/image/image.js,WebContent/UEditor/dialogs/emotion/emotion.js,WebContent/UEditor/umeditor.min.js,WebContent/UEditor/third-party/mathquill/mathquill.js,WebContent/UEditor/dialogs/map/map.js,WebContent/UEditor/lang/zh-cn/zh-cn.js,WebContent/UEditor/third-party/mathquill/mathquill.min.js,WebContent/UEditor/third-party/jquery.min.js,WebContent/UEditor/lang/en/en.js,WebContent/UEditor/umeditor.js
+validator.Unchecked=
